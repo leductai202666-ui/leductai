@@ -1,0 +1,2 @@
+# leductai
+my new Ai
